@@ -1,0 +1,23 @@
+{
+  "Anno": 8,
+  "Version": "1.0.0",
+  "ModID": "turkish-localization",
+  "Difficulty": "unchanged",
+  "GameSetup": {
+    "RequiresNewGame": false,
+    "SafeToRemove": true,
+    "Multiplayer": true,
+    "Campaign": true
+  },
+  "Category": "Localization",
+  "ModName": {
+    "English": "Turkish Localization",
+    "Turkish": "Türkçe Dil Paketi"
+  },
+  "Description": {
+    "English": "Turkish language pack for Anno 117: Pax Romana. 33,270 texts translated using OpenAI API.",
+    "Turkish": "Anno 117: Pax Romana için Türkçe dil paketi. OpenAI API kullanılarak 33.270 metin çevrildi."
+  },
+  "CreatorName": "Serhat",
+  "CreatorContact": ""
+}
